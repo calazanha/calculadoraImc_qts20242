@@ -9,7 +9,6 @@ Este projeto é uma calculadora de IMC (Índice de Massa Corporal) desenvolvida 
   - **Idosos**: Avaliação com critérios diferenciados para faixa etária avançada.
   - **Adultos**: Baseado nos padrões da Organização Mundial da Saúde (OMS).
   - **Crianças**: Avaliação por idade, com categorias específicas de desenvolvimento.
-- Fornecimento de **intervalo de peso ideal** para cada perfil.
 
 ## 🚀 Tecnologias Utilizadas
 
